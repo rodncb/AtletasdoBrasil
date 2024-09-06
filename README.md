@@ -2,6 +2,7 @@
 
 ## Descrição
 Este projeto tem como objetivo criar um site simples para pesquisar informações sobre atletas brasileiros. O usuário pode digitar o nome de um atleta ou esporte para obter resultados relevantes.
+https://atletasdo-brasil.vercel.app/
 
 ## Funcionalidades
 * **Pesquisa:** Permite pesquisar por nome de atleta ou esporte.
